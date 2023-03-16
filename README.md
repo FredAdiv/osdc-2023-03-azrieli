@@ -144,8 +144,8 @@ What are yaml files
         * Setup local git configure, clone, add, commit, etc.
 
 
-* Video 1:
-* Video 2:
+* Video 1: Freddy Adiv
+* Video 2: Freddy Adiv
 
 ## Assignment 2
 
