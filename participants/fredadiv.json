@@ -25,7 +25,10 @@
         },
         {
             "url": "https://dev.to/fredadiv/useful-command-in-git-and-dockers-99"
-        }      
+        },
+        {
+            "url": "https://dev.to/fredadiv/adding-ci-for-projects-3bmo"
+        }
     ],
     "projects": [
         "https://github.com/FredAdiv/Coursera_Capstone",
